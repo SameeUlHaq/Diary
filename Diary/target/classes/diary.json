@@ -1,0 +1,29 @@
+[ {
+  "title" : "Samees Dagbok",
+  "diaryInput" : "Idag fiskade jag och fånga en lax",
+  "date" : "2022-10-14"
+}, {
+  "title" : "Johns Dagbok",
+  "diaryInput" : "Idag fiskade jag och fånga en abborre",
+  "date" : "2022-10-14"
+}, {
+  "title" : "laxens Dagbok",
+  "diaryInput" : "Idag blev jag fiskad av en kille som heter Samee",
+  "date" : "2022-10-14"
+}, {
+  "title" : "Abborrens Dagbok",
+  "diaryInput" : "Idag blev jag fiskad av en kille som heter John",
+  "date" : "2022-10-14"
+}, {
+  "title" : "Sarosh",
+  "diaryInput" : "Träffade Samee idag",
+  "date" : "2022-10-18"
+}, {
+  "title" : "Samees sista titel",
+  "diaryInput" : "Idag skriver jag sista gången i denna dagbok.",
+  "date" : "2022-10-29"
+}, {
+  "title" : "Den allra sista",
+  "diaryInput" : "Detta är den allra sista inlägget av Samee",
+  "date" : "2022-10-29"
+} ]
